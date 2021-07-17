@@ -7,6 +7,8 @@
 Bot to verify if a new user, who joins a group, is a human.
 The Bot sends an image captcha for each new user, and kicks any of them that can't solve the captcha in a specified amount of time. Also, any message that contains an URL sent by a new "user" before captcha completion will be considered Spam and will be deleted.
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tobotupdate/TLG_JoincaptchaBot)
+
 ## Donate
 
 Do you like this Bot? Buy me a coffee :)
