@@ -40,7 +40,7 @@ CONST = {
     "TOKEN": \
         os_getenv("CAPTCHABOT_TOKEN", SETTINGS["CAPTCHABOT_TOKEN"]),
 
-    # Bot Owner (i.e. "@JoseTLG" or "123456789")
+    # Bot Owner (i.e. "@bot_devloaper" or "1359160036")
     "BOT_OWNER": \
         os_getenv("CAPTCHABOT_OWNER", SETTINGS["CAPTCHABOT_OWNER"]),
 
@@ -255,14 +255,14 @@ CONST = {
         "\nTurkish / Türkçe\n/language tr\n" \
         "\nUkrainian / Українську\n/language uk\n",
 
-    # Bot developer
-    "DEVELOPER": "@JoseTLG",
+    # Bot channel
+    "Join": "https://t.me/tobot_update",
 
-    # Bot code repository
-    "REPOSITORY": "https://github.com/J-Rios/TLG_JoinCaptchaBot",
+    # BOT GROUP
+    "JOIN": "https://t.me/tobotupdate",
 
-    # Developer Donation address
-    "DEV_DONATION_ADDR": "https://www.buymeacoffee.com/joincaptchabot",
+    # MORE BOT
+    "CHECK": "https://t.me/tobot_list",
 
     # Developer Bitcoin address
     "DEV_BTC": "3N9wf3FunR6YNXonquBeWammaBZVzTXTyR",
